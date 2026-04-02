@@ -1,1 +1,1 @@
-This is complete Seaborn.
+This is a complete Seaborn from beginner to advanced.
